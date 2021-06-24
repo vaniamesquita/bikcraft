@@ -700,7 +700,7 @@ img {
   position: fixed;
   top: 0;
   width: 100%;
-  background: #fec63e; /* Amarelo */
+  background: #fec63e;
   padding: 15px 0;
   z-index: 10;
 }
@@ -889,7 +889,7 @@ img {
   width: 634px;
   height: 83px;
   display: block;
-  background: url("../img/linhas.svg") no-repeat center;
+  background: url(img/linhas.svg) no-repeat center;
   position: absolute;
   top: 209px;
   right: 162px;
@@ -932,7 +932,7 @@ img {
 .quebra {
   width: 100%;
   height: 220px;
-  background: url(/img/bg-footer.jpg) no-repeat center;
+  background: url(img/bg-footer.jpg) no-repeat center;
   background-size: cover;
   text-align: center;
   padding-top: 40px;
@@ -1073,7 +1073,7 @@ img {
 /* INICIO SOBRE */
 
 .interna_sobre {
-  background: url(/img/bg-sobre.jpg) no-repeat center;
+  background: url(img/bg-sobre.jpg) no-repeat center;
   background-size: cover;
 }
 
@@ -1103,7 +1103,7 @@ img {
 /* INICIO PRODUTOS */
 
 .interna_produtos {
-  background: url(/img/bg-produtos.jpg) no-repeat center;
+  background: url(img/bg-produtos.jpg) no-repeat center;
   background-size: cover;
 }
 
@@ -1282,7 +1282,7 @@ img {
 /* INICIO PORTFOLIO */
 
 .interna_portfolio {
-  background: url(/img/bg-portfolio.jpg) no-repeat center;
+  background: url(img/bg-portfolio.jpg) no-repeat center;
   background-size: cover;
 }
 
@@ -1314,7 +1314,7 @@ img {
 /* INICIO CONTATO */
 
 .interna_contato {
-  background: url(/img/bg-contato.jpg) no-repeat center;
+  background: url(img/bg-contato.jpg) no-repeat center;
   background-size: cover;
 }
 
