@@ -19,13 +19,13 @@ Começando os estudos criando o briefing do cliente, estruturamos a arquitetura 
 
 O site também foi criado de maneira totalmente responsiva e otimizado para SEO.
 
-#### Acesse o site completo: <a href="https://vaniamesquita.me/bikcraft/" target="_blank">vaniamesquita.me/bikcraft</a> 
+#### Acesse o site completo: <a href="https://bikcraft-me.netlify.app" target="_blank">https://bikcraft-me.netlify.app</a> 
 
 ---
 
 ## Layout
 
-Você pode acessar o projeto clicando <a href="https://vaniamesquita.me/bikcraft/" target="_blank">aqui</a>
+Você pode acessar o projeto clicando <a href="https://bikcraft-me.netlify.app" target="_blank">aqui</a>
 
 
 #### <p align="center">Web</p>
